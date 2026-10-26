@@ -71,16 +71,16 @@ Medium — выполнены задачи 1–4. Программа проте�
 
 ## Структура проекта
 python_rpg_game/
-main.py — точка входа, запуск игры
-game_controller.py — контроллер, меню игры
-game_field.py — игровое поле
-units.py — классы юнитов (6 видов)
-base.py — класс базы
-landscape.py — классы ландшафта (4 типа)
-neutral_objects.py — нейтральные объекты (4 типа)
-interfaces.py — абстрактные интерфейсы
-instance_counter.py — счётчик экземпляров (вариант 17)
-README.md — этот файл
+- main.py — точка входа, запуск игры
+- game_controller.py — контроллер, меню игры
+- game_field.py — игровое поле
+- units.py — классы юнитов (6 видов)
+- base.py — класс базы
+- landscape.py — классы ландшафта (4 типа)
+- neutral_objects.py — нейтральные объекты (4 типа)
+- interfaces.py — абстрактные интерфейсы
+- instance_counter.py — счётчик экземпляров (вариант 17)
+- README.md — этот файл
 
 
 ## Ссылки
